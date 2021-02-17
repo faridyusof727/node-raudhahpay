@@ -1,6 +1,6 @@
 # Raudhah Pay Client Library using Node
 
-It is simple wrapper class written in php to ease use of RaudhahPay Payment Gateway
+It is simple wrapper class written in node to ease use of RaudhahPay Payment Gateway
 
 ## Installation
 
