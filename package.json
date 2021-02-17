@@ -1,6 +1,6 @@
 {
   "name": "raudhahpay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RaudhahPay API Wrapper",
   "main": "index.js",
   "repository": "https://github.com/faridyusof727/node-raudhahpay",
