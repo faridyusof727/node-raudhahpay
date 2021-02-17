@@ -1,0 +1,23 @@
+{
+  "name": "raudhahpay",
+  "version": "1.0.1",
+  "description": "RaudhahPay API Wrapper",
+  "main": "index.js",
+  "repository": "https://github.com/faridyusof727/node-raudhahpay",
+  "author": "Farid Yusof",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-formatter-complexity": "^1.0.4",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-sort-requires": "^2.1.0"
+  }
+}
